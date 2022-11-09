@@ -1,0 +1,83 @@
+1. Who is the father of C language?
+a) Steve Jobs
+b) James Gosling
+c) Dennis Ritchie
+d) Rasmus Lerdorf
+View Answer c
+
+2. Which of the following is not a valid C variable name?
+a) int number;
+b) float rate;
+c) int variable_count;
+d) int $main;
+View Answer d
+
+3. All keywords in C are in ____________
+a) LowerCase letters
+b) UpperCase letters
+c) CamelCase letters
+d) None of the mentioned
+View Answer a
+
+4. Which of the following is true for variable names in C?
+a) They can contain alphanumeric characters as well as special characters
+b) It is not an error to declare a variable to be one of the keywords(like goto, static)
+c) Variable names cannot start with a digit
+d) Variable can be of any length
+View Answer c
+
+5. Which is valid C expression?
+a) int my_num = 100,000;
+b) int my_num = 100000;
+c) int my num = 1000;
+d) int $my_num = 10000;
+View Answer b
+
+6. Which of the following cannot be a variable name in C?
+a) volatile
+b) true
+c) friend
+d) export
+View Answer a
+
+7. What is short int in C programming?
+a) The basic data type of C
+b) Qualifier
+c) Short is the qualifier and int is the basic data type
+d) All of the mentioned
+View Answer c
+
+8. Which of the following declaration is not supported by C language?
+a) String str;
+b) char *str;
+c) float str = 3e2;
+d) Both String str; & float str = 3e2;
+View Answer a
+
+9. Which keyword is used to prevent any changes in the variable within a C program?
+a) immutable
+b) mutable
+c) const
+d) volatile
+View Answer c
+
+10. What is the result of logical or relational expression in C?
+a) True or False
+b) 0 or 1
+c) 0 if an expression is false and any positive number if an expression is true
+d) None of the mentioned
+View Answer b
+
+11. Which of the following typecasting is accepted by C language?
+a) Widening conversions
+b) Narrowing conversions
+c) Widening & Narrowing conversions
+d) None of the mentioned
+View Answer c
+
+12. Where in C the order of precedence of operators do not exist?
+a) Within conditional statements, if, else
+b) Within while, do-while
+c) Within a macro definition
+d) None of the mentioned
+Answer d
